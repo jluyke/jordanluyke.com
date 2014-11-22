@@ -1,5 +1,33 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+  .index
+    .header
+      .container
+        .row
+          .col-sm-6
+            h1.title jordan luyke
+          .visible-xs(style='padding: 1em 0 1em 0;')
+          .col-sm-6
+            .row
+              .col-xs-4.link-col
+                a.link(href='https://github.com/jluyke') github
+              .col-xs-4.link-col
+                a.link(href='https://keybase.io/jluyke') keybase
+              .col-xs-4.link-col
+                a.link(href='mailto:jordanluyke@gmail.com') contact
+    .body
+      .container
+        .row
+          .col-sm-3
+            h1.section-title projects
+          .col-sm-9
+            .projects
+              h1.project-title polychroma
+              p.project-description A simple in-browser paint app. Uses HTML5's canvas element and socket.io
+              a.link(href='http://jluyke.github.io/polychroma/') jluyke.github.io/polychroma
+              hr
+              h1.project-title luyke-copter
+              p.project-description A work-in-progress quadcopter, custom built.
+              a.link(href='https://github.com/jluyke/luyke-copter') github.com/jluyke/luyke-copter
+    .footer
