@@ -52,14 +52,14 @@
   }
 
   .link {
-    .add-multiple-transitions(color 0.15s ease-in-out, border-bottom 0.15s ease-in-out;);
+    .add-transition(color, 0.2s);
     color: @theme-font;
-    border-bottom: 1px solid fade(@theme-gray, 0%);
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
 
     &:hover {
       color: #337ab7;
       text-decoration: none;
-      border-bottom: 1px solid fade(@theme-gray, 100%);
     }
   }
 }
