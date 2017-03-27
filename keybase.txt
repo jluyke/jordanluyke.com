@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/jordanluyke
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://keybase.txt
+  * I am jordanluyke (https://keybase.io/jordanluyke) on keybase.
+  * I have a public key with fingerprint 5995 32B5 F3F1 9D60 0AE6  9769 EBFF 2AA7 F0CA 8574
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010133fc8b54975e8d963c1b4cd01f57935973cb9157a51d47dc103745e6c2da7ccd0a",
+            "fingerprint": "599532b5f3f19d600ae69769ebff2aa7f0ca8574",
+            "host": "keybase.io",
+            "key_id": "ebff2aa7f0ca8574",
+            "kid": "010133fc8b54975e8d963c1b4cd01f57935973cb9157a51d47dc103745e6c2da7ccd0a",
+            "uid": "edac478c9f8be171eba740e0911f7619",
+            "username": "jordanluyke"
+        },
+        "service": {
+            "hostname": "keybase.txt",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1490635203,
+    "expire_in": 157680000,
+    "prev": "fe0778dece5ddec028113488962c5234e8332b8ba3f7f8d2f9b7739b1725e817",
+    "seqno": 16,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.66
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJbSBVBGD6mlZ2IbphR0MMaFWWys7fZOdlFLMokio6QiXLYy+xx83h2
+3d3jBREpzQcfCkoqS3rRDBOMRLoQVnpCDbXwBglCVmgPQhBkCmI0a/rWY/Mww8z/
+fd///f/8bzfEerwxk+8HRw/57ufF9HfVRzzZ4xnRcko21DLKV04V4KUDh1RsO4EC
+XaV8FA1owLKaIso8hyCPRRUJrAJkTlFpoPEQsTyCrCIjwEOJByoHVQXQLOR4LCiM
+KkGFACUqmdL0cBBbpqWHHSLLI8SzjMxrrAaQKtC0hAUEBYRlTWMkCWq0Iok85Agx
+37BdBjEnSzZO0Q3yRi6BJXv/wP9n35G/eVRJ4aCoIE2UMYAAyxLkaEwjADQoAOQC
+bWyFpUJM0JcMS5XCoUhZAaYqkikSKNYV7PbWLWYZtFKQU+oQtmkZjqEYIRLIdxzT
+5/KcMtMFlmA5sCwRkPWwShpJCMXYsnUjTPkAQSqO7moCDtECyzM0m0zhUlO3cEB3
+ETwURJosNw0uJpIapiEUVaxgXiU7zYgAsJwoIoFReIblsMiS3xFlidWgJqqMhmQI
+WSQDyJBWAki5RRWFDaItEJ9SkGjaejAsORGLlNz9JjfOE+P1rFm9yp0wj3fdppW5
+y6mJ9zTE/2igjvR+3Z3bkp+VOXQxoblHTNk4lnF7HnXOaF695tHI1T0jaYuJ559n
+D/w+6P9U79maVtdb9cDw9z97mfCzL7SrK7rtbv32OxO1/TaX19CULvyq3nKr3B+F
+IHi4vfdGe2/b0/Gdp9/Z3raFm5VVZk/HiwHGMs8ePZBVk/J5EMw+to7tqFgYXQs0
+rmg4J72kacjsnpq7zs2mTh6fOXdmX+uFltDYx+mBzrhQ/pfCEz2LXnP9ldy5V5m4
+8VT021z6dNJAdq7P37d5Yn/ltcm679WBypyOipNPEvtaJuYfMkphLZOU+HrKHh7d
+6/2QfblRMFg1Nbb5XioWYlv/AMncRl8=
+=M4to
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jordanluyke
+
+==================================================================
